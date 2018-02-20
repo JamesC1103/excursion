@@ -1,14 +1,16 @@
-h1 {
+body {
   font-family: verdana;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+h1 {
   font-weight: normal;
   font-size: 50px;
-  color: white;
-  text-align: center;
 }
 
 .cta {
-  font-family: verdana;
   color: aquamarine;
   font-size: 16px;
-  text-align: center;
 }

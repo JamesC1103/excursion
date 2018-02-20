@@ -6,7 +6,9 @@ h1 {
   text-align: center;
 }
 
-#link {
+.cta {
+  font-family: verdana;
   color: aquamarine;
-  font-size: 16px
+  font-size: 16px;
+  text-align: center;
 }
